@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MemoApp</string>
+
+    <string name="main_text_view_title">タイトル</string>
+    <string name="main_text_view_comment">コメント</string>
+    <string name="main_button_save">保存</string>
+    <string name="main_button_delete">削除</string>
+    <string name="main_not_found_data">データが見つかりません。</string>
+    <string name="main_toast_save">保存しました。</string>
+    <string name="main_toast_delete">削除しました。</string>
+</resources>
